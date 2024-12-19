@@ -1,0 +1,6 @@
+public class abstarction{
+ public static void main(Straing [] args)
+System.out.println("i have print Automation testing");
+
+
+}
